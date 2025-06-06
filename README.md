@@ -1,13 +1,14 @@
 <h2 align="center"> About Me👋 </h2>
 
+<img src="https://tenor.com/p2Di4wc8BYp.gif" alt="cool vintage computer gif" align="right" width="300" height="auto" />
+
 - 🧪 <b>I'm currently working on ... </b></br>
-      On a LLM chat using Deepseek. 
+      A LLM chat using Deepseek. 
 - 🧠 <b>I'm currently learning about ... </b></br>
       Frontend/Backend frameworks and relational databases.
 - :godmode: <b>I’m currently looking for ... </b></br>
       Open Software Engineer New Graduate positions for 2025.
   
-<img src="https://tenor.com/view/computer-pixel-90s-pc-pixels-gif-13326856398514221079" alt="cool vintage computer gif" align="right" width="300" height="auto" />
 
 <h2 align="center"> Languages and Tools 🔧💻 </h2>
 
