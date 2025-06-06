@@ -7,14 +7,14 @@
 - :godmode: <b>I’m currently looking for ... </b></br>
       Open Software Engineer New Graduate positions for 2025.
 
-<h2 align="center"> Technologies I use👋 
+<h2 align="center"> Technologies I use👋 </h2>
 
+<p align="center"
 - 🐍  <b> Python </b></br>
 - 📊  <b> SQL </b></br>
 - 📗  <b> Django </b></br>
 - ⚡  <b> React </b></br>
-
-</h2>
+</p>
 
 <h2 align="center"> Github stats :bar_chart: </h2>
 
