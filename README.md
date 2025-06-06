@@ -1,21 +1,23 @@
-## Hi there 👋
-
-I'm learning to code and building cool projects!
+<h2 align="center"> About Me👋 </h2>
 
 ---
 
-## 🔧 Technologies I'm using
-- Python 
-- Django 
-- JavaScript 
-- SQL 
+- 🧪 <b>I'm currently working on ... </b>
+      Working on a gpt type chat using Deepseek. 
+- 🧠 <b>I'm currently learning about ... </b>
+      Frontend/Backend technologies and relational databases.
+- 🔎 <b>I’m currently looking for ... </b>
+      Open Software Engineer New Graduate positions for 2025.
+---
 
-## 🌱 Current Project
-Working on an AI Resume Analyzer
-
-
-
-
+<!-- Social media -->
+<h5 align="center">
+  
 ![Afelipe72's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afelipe72&theme=tokyonight&hide_border=true)
 
 ![Afelipe72's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afelipe72&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+</h5>
+
+
+
