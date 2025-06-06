@@ -2,11 +2,11 @@
 
 ---
 
-- 🧪 <b>I'm currently working on ... </b>
+- 🧪 <b>I'm currently working on ... </b></b>
       Working on a gpt type chat using Deepseek. 
-- 🧠 <b>I'm currently learning about ... </b>
+- 🧠 <b>I'm currently learning about ... </b></b>
       Frontend/Backend technologies and relational databases.
-- 🔎 <b>I’m currently looking for ... </b>
+- 🔎 <b>I’m currently looking for ... </b></b>
       Open Software Engineer New Graduate positions for 2025.
 ---
 
