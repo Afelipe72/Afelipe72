@@ -1,6 +1,6 @@
 <h2 align="center"> About Me👋 </h2>
 
-<img src="https://github.com/Afelipe72/Afelipe72/blob/main/vintage.gif" alt="cool vintage computer gif" align="right" width="300" height="auto" />
+<img src="https://github.com/Afelipe72/Afelipe72/blob/main/vintage.gif" alt="cool vintage computer gif" align="right" width="200" height="auto" />
 
 - 🧪 <b>I'm currently working on ... </b></br>
       A LLM chat using Deepseek. 
