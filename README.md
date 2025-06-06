@@ -7,7 +7,7 @@
 - :godmode: <b>I’m currently looking for ... </b></br>
       Open Software Engineer New Graduate positions for 2025.
   
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="Cool vintage computer GIF" align="right" width="300" height="auto" />
+<div class="tenor-gif-embed" data-postid="13326856398514221079" data-share-method="host" data-aspect-ratio="1.12162" data-width="100%"><a href="https://tenor.com/view/computer-pixel-90s-pc-pixels-gif-13326856398514221079">Computer Pixel Sticker</a>from <a href="https://tenor.com/search/computer-stickers">Computer Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h2 align="center"> Languages and Tools 🔧💻 </h2>
 
