@@ -8,7 +8,7 @@
       Open Software Engineer New Graduate positions for 2025.
 
 <h2 align="center"> Github stats :bar_chart: </h2>
----
+
 <!-- Social media -->
 <h5 align="center">
   
