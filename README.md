@@ -1,7 +1,7 @@
 <h2 align="center"> About Me👋 </h2>
 
 - 🧪 <b>I'm currently working on ... </b></br>
-      Working on a LLM chat using Deepseek. 
+      On a LLM chat using Deepseek. 
 - 🧠 <b>I'm currently learning about ... </b></br>
       Frontend/Backend frameworks and relational databases.
 - :godmode: <b>I’m currently looking for ... </b></br>
@@ -9,11 +9,11 @@
 
 <h2 align="center"> Technologies I use👋 </h2>
 
-<p align="center"
-- 🐍  <b> Python </b></br>
-- 📊  <b> SQL </b></br>
-- 📗  <b> Django </b></br>
-- ⚡  <b> React </b></br>
+<p align="center">
+🐍  <b> Python </b></br>
+📊  <b> SQL </b></br>
+📗  <b> Django </b></br>
+⚡  <b> React </b></br>
 </p>
 
 <h2 align="center"> Github stats :bar_chart: </h2>
