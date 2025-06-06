@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Afelipe72/Afelipe72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning to code and building cool projects!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies I'm using
+- Python 
+- Django 
+- JavaScript 
+- SQL 
+
+## 🌱 Current Project
+Working on an AI Resume Analyzer
+
+
 
 
 ![Afelipe72's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afelipe72&theme=tokyonight&hide_border=true)
