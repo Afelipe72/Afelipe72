@@ -4,12 +4,19 @@
       Working on a LLM chat using Deepseek. 
 - 🧠 <b>I'm currently learning about ... </b></br>
       Frontend/Backend frameworks and relational databases.
-- 🔎 <b>I’m currently looking for ... </b></br>
+- :godmode: <b>I’m currently looking for ... </b></br>
       Open Software Engineer New Graduate positions for 2025.
+
+<h2 align="center"> Technologies I use👋 </h2>
+
+- 🐍  <b> Python </b></br>
+- 📊  <b> SQL </b></br>
+- 📗  <b> Django </b></br>
+- ⚡  <b> React </b></br>      
 
 <h2 align="center"> Github stats :bar_chart: </h2>
 
-<!-- Social media -->
+<!-- Github stats -->
 <h5 align="center">
   
 ![Afelipe72's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Afelipe72&theme=tokyonight&hide_border=true)
@@ -18,5 +25,4 @@
 
 </h5>
 
----
 
