@@ -13,7 +13,7 @@
 <h2 align="center"> Languages and Tools 🔧💻 </h2>
 
 <p align="center">
-  <b> 🐍Python - 📊SQL - 📗Django - ⚡React </b>
+  <b> 🐍Python - 📊SQL - 📗Django </b>
 </p>
 
 <h2 align="center"> Github stats :bar_chart: </h2>
